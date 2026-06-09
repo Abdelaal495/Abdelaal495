@@ -26,8 +26,9 @@ Previously:
 ### Featured Projects
 
 #### Word2World
+Text-to-3D generation using Gaussian Splatting, Diffusion Models, and SDS optimization with VR integration.
 
-Text-to-3D generation using Gaussian Splatting, Diffusion Models, and Score Distillation Sampling (SDS), with deployment in an immersive VR environment.
+🔗 https://github.com/Text-to-3D-Generation/Word2World
 
 #### Topo-Omni
 
