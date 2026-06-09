@@ -12,8 +12,7 @@ I am a PhD student in Computer Engineering at the University of Waterloo and a m
 * 🎨 Generative AI & Controlled Image Generation
 * 🧠 Explainability & Interpretability of Diffusion Models and Mean Flows
 * 🌍 Representation Learning, JEPA, and World Models
-* 👁️ Computer Vision & Multimodal Learning
-* 🤖 NeuroAI and Brain-Inspired Machine Learning
+* 👁️ 3D Computer Vision & Multimodal Learning
 
 Previously:
 
