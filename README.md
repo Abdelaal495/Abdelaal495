@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Abdelaal</h1>
 
 <h3 align="center">
-PhD Student @ University of Waterloo | Generative AI, Computer Vision & NeuroAI Researcher
+PhD Student @ University of Waterloo | Generative AI and Computer Vision researcher
 </h3>
 ---
 
