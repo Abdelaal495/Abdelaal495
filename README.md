@@ -3,9 +3,6 @@
 <h3 align="center">
 PhD Student @ University of Waterloo | Generative AI, Computer Vision & NeuroAI Researcher
 </h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmmohabd2001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 ---
 
 ### About Me
