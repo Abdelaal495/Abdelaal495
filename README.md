@@ -1,7 +1,61 @@
 <h1 align="center">Hi, I'm Ahmed Abdelaal</h1>
-<h3 align="center">An AI researcher looking for new challenges to overcome and perfect!</h3>
-<img align="right" alt="Hi" width="400" src="https://media4.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif?cid=790b7611f6ae398e7f961c1e7129940a45705e9d9e203cf3&rid=giphy.gif&ct=s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelaal2001&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelaal2001" /> </p>
+<h1 align="center">Ahmed Abdelaal</h1>
+
+<h3 align="center">
+PhD Student @ University of Waterloo | Generative AI, Computer Vision & NeuroAI Researcher
+</h3>
+
+---
+
+### About Me
+
+I am a PhD student in Computer Science at the University of Waterloo and a member of the CHARM Lab, where I conduct research in:
+
+* 🎨 Generative AI & Controlled Image Generation
+* 🧠 Explainability & Interpretability of Diffusion Models and Mean Flows
+* 🌍 Representation Learning, JEPA, and World Models
+* 👁️ Computer Vision & Multimodal Learning
+* 🤖 NeuroAI and Brain-Inspired Machine Learning
+
+Previously:
+
+* Applied Scientist Intern @ Microsoft (Shopping AI)
+* Research Intern @ EPFL NeuroAI Lab (Summer@EPFL)
+
+---
+
+### Featured Projects
+
+#### Word2World
+
+Text-to-3D generation using Gaussian Splatting, Diffusion Models, and Score Distillation Sampling (SDS), with deployment in an immersive VR environment.
+
+#### Topo-Omni
+
+Multimodal topographic foundation model for discovering and validating brain-like functional organization through human fMRI alignment and causal interventions.
+
+---
+
+### Research Interests
+
+* Generative Models
+* Diffusion Models
+* Mean Flows
+* Representation Learning
+* World Models
+* Explainable AI
+* Computer Vision
+* Multimodal Learning
+* NeuroAI
+
+---
+
+### Contact
+
+📧 [ahmed.moh.abdelaal@gmail.com](mailto:ahmed.moh.abdelaal@gmail.com)
+
+📍 Waterloo, Ontario, Canada
+
 
 - How to reach me **ahmed.moh.abdelaal@gmail.com**
 
