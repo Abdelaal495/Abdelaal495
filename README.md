@@ -7,7 +7,7 @@ PhD Student @ University of Waterloo | Generative AI, Computer Vision & NeuroAI 
 
 ### About Me
 
-I am a PhD student in Computer Science at the University of Waterloo and a member of the CHARM Lab, where I conduct research in:
+I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, where I conduct research in:
 
 * 🎨 Generative AI & Controlled Image Generation
 * 🧠 Explainability & Interpretability of Diffusion Models and Mean Flows
