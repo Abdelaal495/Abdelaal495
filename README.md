@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Ahmed Abdelaal</h1>
 <h1 align="center">Ahmed Abdelaal</h1>
 
 <h3 align="center">
