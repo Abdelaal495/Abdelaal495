@@ -1,13 +1,21 @@
 <h1 align="center">Ahmed Abdelaal</h1>
 
 <h3 align="center">
-PhD Student @ University of Waterloo | Generative AI and Computer Vision researcher
+PhD Student @ University of Waterloo | Generative AI and Computer Vision Researcher
 </h3>
+
+<p align="center">
+🌐 <a href="https://aabdelaal.netlify.app/">Personal Website</a> •
+📄 <a href="https://aabdelaal.netlify.app/">CV & Publications</a>
+</p>
+
 ---
 
 ### About Me
 
-I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, where I conduct research in:
+I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, supervised by Amir-Hossein Karimi.
+
+My research focuses on building adaptive, physically grounded, and interpretable AI systems, with particular interests in:
 
 * 🎨 Generative AI & Controlled Image Generation
 * 🧠 Explainability & Interpretability of Diffusion Models and Mean Flows
@@ -24,7 +32,8 @@ Previously:
 ### Featured Projects
 
 #### Word2World
-Text-to-3D generation using Gaussian Splatting, Diffusion Models, and SDS optimization with VR integration.
+
+Text-to-3D generation using Gaussian Splatting, diffusion models, and Score Distillation Sampling (SDS).
 
 🔗 https://github.com/Text-to-3D-Generation/Word2World
 
@@ -48,14 +57,18 @@ Multimodal topographic foundation model for discovering and validating brain-lik
 
 ---
 
+### Links
+
+🌐 Website: https://aabdelaal.netlify.app/
+
+📄 Google Scholar: *(add when ready)*
+
+💻 GitHub: https://github.com/abdelaal495
+
+---
+
 ### Contact
 
 📧 [ahmed.moh.abdelaal@gmail.com](mailto:ahmed.moh.abdelaal@gmail.com)
 
 📍 Waterloo, Ontario, Canada
-
-
-- How to reach me **ahmed.moh.abdelaal@gmail.com**
-
-<br>
-
