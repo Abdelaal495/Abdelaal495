@@ -6,7 +6,7 @@ PhD Student @ University of Waterloo | Generative AI and Computer Vision Researc
 
 <p align="center">
 🌐 <a href="https://aabdelaal.netlify.app/">Personal Website</a> •
-📄 <a href="[https://aabdelaal.netlify.app/](https://scholar.google.ca/citations?hl=en&view_op=list_works&gmla=ACrTK9V1rr91mSWeuyWEKp2HJ6lq9IrCdUy0GKRluDDZXNdor2w6sbGbyxKHb-YHoMH4yOIseeFaHAtEcLuT5A&user=IqMz0o8AAAAJ)">Google Scholar</a>
+📄 <a href="https://scholar.google.ca/citations?hl=en&view_op=list_works&gmla=ACrTK9V1rr91mSWeuyWEKp2HJ6lq9IrCdUy0GKRluDDZXNdor2w6sbGbyxKHb-YHoMH4yOIseeFaHAtEcLuT5A&user=IqMz0o8AAAAJ">Google Scholar</a>
 </p>
 
 ---
