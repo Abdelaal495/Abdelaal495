@@ -15,12 +15,10 @@ PhD Student @ University of Waterloo | Generative AI and Computer Vision Researc
 
 I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, supervised by Amir-Hossein Karimi.
 
-My research focuses on building adaptive, physically grounded, and interpretable AI systems, with particular interests in:
+My research focuses on building controllable and physically grounded AI systems, with particular interests in:
 
 * 🎨 Generative AI & Controlled Image Generation
-* 🧠 Explainability & Interpretability of Diffusion Models and Mean Flows
 * 🌍 Representation Learning, JEPA, and World Models
-* 👁️ 3D Computer Vision & Multimodal Learning
 
 Previously:
 
@@ -61,7 +59,7 @@ Multimodal topographic foundation model for discovering and validating brain-lik
 
 🌐 Website: https://aabdelaal.netlify.app/
 
-📄 Google Scholar: *(add when ready)*
+📄 Google Scholar: https://scholar.google.ca/citations?user=IqMz0o8AAAAJ
 
 💻 GitHub: https://github.com/abdelaal495
 
