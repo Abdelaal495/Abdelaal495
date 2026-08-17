@@ -13,7 +13,7 @@ PhD Student @ University of Waterloo | Generative AI and Computer Vision Researc
 
 ### About Me
 
-I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, supervised by Amir-Hossein Karimi.
+I am a PhD student in Computer Engineering at the University of Waterloo and a member of the CHARM Lab, supervised by Dr. Amir-Hossein Karimi.
 
 My research focuses on building controllable and physically grounded AI systems, with particular interests in:
 
